@@ -1,0 +1,1 @@
+Corrected project setup instructions 
